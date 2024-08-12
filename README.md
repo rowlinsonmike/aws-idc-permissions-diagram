@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Ah, AWS IDC permission sets - where complexity goes to party and there are no noise complaints becauses they are better than the alertnative! I've wrangled some containerized logic to help visualize the applied permission sets for an account.</h4>
+<h4 align="center">Ah, AWS IDC permission sets - where complexity goes to party and there are no noise complaints because its better than the alertnative! 🤣 I've containerized some logic to diagram the applied permission sets for a given account.</h4>
 
 <p align="center">
   <a href="#how-to-use">How to Use</a> •
